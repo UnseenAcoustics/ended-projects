@@ -1,9 +1,10 @@
 # Projects Ended
 This is a list of all of my old projects from the last 5 years of development.
 
-
+#### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [Website](https://ultronmusicbot.tk)
+#### Lunar Bot - Website Developer - [Website](https://lunar-bot.ml)
+#### RisingNodes - Free/Paid Web / VPS SSD / VPS HDD / Minecraft / Discord Bot Hosting - Moderator/Website Developer - [Website](https://risingnodes.xyz)
 #### Chill Host - Free/Paid Discord Bot / Game Server Hosting Service - UpperManagement -
-#### Chill Realm - Minecraft Server Community - Forums/Website Developer - [Forums](https://chillrealm.ml/)
 #### MexiHost - Free/Paid Website / Reseller Web Hosting - Administrator/Website Developer -
 #### VHMDevelopment - Paid Website / Game / VPS Hosting - Administrator/Website Developer - 
 #### Virtual Nodes - Website/Cloud Storage Hosting Service - Ex-Head Of Staff/Website Developer - [Website](https://virtualnodes.ml) - [Discord](https://discord.virtualnodes.ml)
