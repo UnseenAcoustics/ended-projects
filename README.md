@@ -1,6 +1,11 @@
 # Projects Ended
 This is a list of all of my old projects from the last 5 years of development.
 
+#### The Chill Realm - Minecraft Server Community - Forums/Website/Bot Developer - [Forums](https://chillrealm.ml/) - [Server Inv](https://discord.gg/eHqq4zwfEw)
+#### ClumsyHosting - "Free"/ Paid Hosting - COO/System Admin - [Coming Soon]() - [Server Inv Coming Soon]()
+#### BedCraft Network - Minecraft Server Community - Forums/Website/Bot Developer - [Coming Soon]() - [Server Inv](https://discord.gg/r3aM693mc8)
+#### Hosting Service/Company Directory - CEO - [Website Coming Soon]() - [Server Inv](https://discord.gg/z9duhbNjE7)
+#### Crystal Nodes - Paid VPS / VPS Cloud /  Shared Website / Dedicated Server Hosting - Founder/CEO - [Website](https://crystal-nodes.xyz) - [Server Inv](https://discord.gg/U9vRCB7Ttn)
 #### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [Website](https://ultronmusicbot.tk)
 #### Lunar Bot - Website Developer - [Website](https://lunar-bot.ml)
 #### RisingNodes - Free/Paid Web / VPS SSD / VPS HDD / Minecraft / Discord Bot Hosting - Moderator/Website Developer - [Website](https://risingnodes.xyz)
