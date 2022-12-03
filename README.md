@@ -1,6 +1,9 @@
 # Projects Ended
 This is a list of all of my old projects from the last 5 years of development.
 
+#### Invisible Radio - High Quality Radio Bot - Bot Owner/Bot Developer - [Website](https://invisibleradio.tk)
+#### CenterHost - Free/Paid Hosting - Developer - [Website](https://CenterHost.xyz) - [Server Inv Coming Soon]()
+#### AmongUS Central - Founder - [Server Inv](https://discord.gg/E4aNybFZbj)
 #### Olax™ Development - Development Team - Owner / Administrator - [Server Inv Coming Soon]()
 #### Crystal Advertising - Server Advertising Community - CEO - [Server Inv Coming Soon]()
 #### The Chill Realm - Minecraft Server Community - Forums/Website/Bot Developer - [Forums](https://chillrealm.ml/) - [Server Inv](https://discord.gg/eHqq4zwfEw)
