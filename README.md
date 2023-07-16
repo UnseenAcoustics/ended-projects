@@ -1,6 +1,8 @@
 # Projects Ended
 This is a list of all of my old projects from the last 5 years of development.
 
+#### Chill Hosting - "Free"/ Paid Hosting - CAO/System Admin - [Website](https://chillhosting.xyz) - [Server Inv](https://discord.gg/e9YZTVcBMP)
+#### Pluto Music - High Quality Music Bot - Bot Developer - [Website](https://plutomusic.ml)
 #### Invisible Radio - High Quality Radio Bot - Bot Owner/Bot Developer - [Website](https://invisibleradio.tk)
 #### CenterHost - Free/Paid Hosting - Developer - [Website](https://CenterHost.xyz) - [Server Inv Coming Soon]()
 #### AmongUS Central - Founder - [Server Inv](https://discord.gg/E4aNybFZbj)
